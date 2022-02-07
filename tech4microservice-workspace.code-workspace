@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "tech4microservice"
+		},
+		{
+			"path": "Eureka-Server"
+		},
+		{
+			"path": "Zuul-Server"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "interactive"
+	}
+}
